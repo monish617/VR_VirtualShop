@@ -24,5 +24,9 @@
 			"Name": "MovieRenderPipeline",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"Windows"
 	]
 }
